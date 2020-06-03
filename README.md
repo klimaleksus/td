@@ -1,4 +1,1 @@
-tdesktop
-========
-
-Telegram Desktop messaging app
+forked from https://github.com/telegramdesktop/tdesktop
